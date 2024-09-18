@@ -1,4 +1,17 @@
-# Seurat Installation Guide
+**RSG Turkey invites all its members to the workshop titled "Introduction to Single-cell RNA-seq Analysis using Seurat," which will be delivered by Ali Yavuz Çakır. The workshop will take place on September 23, 2024, from 10:00 AM to 3:00 PM. This is a great opportunity to learn how to work with single-cell RNA-seq data and master the analysis process.**
+
+**Workshop content:
+Using the Seurat package
+Analysis of single-cell RNA-seq data
+Automatic cell type annotation for PBMC_10x_v2
+Integration of two datasets**
+
+**We look forward to the participation of all our members!**
+
+**Date: September 23, 2024
+Time: 10:00 AM - 3:00 PM**
+
+**To prepare for the workshop happening next Monday, please ensure you have completed the following:**
 
 ## Before You Start
 Make sure to create a working directory and use an R script in Rstudio to type your command lines, as we covered in our previous workshop.
@@ -9,9 +22,9 @@ Make sure to create a working directory and use an R script in Rstudio to type y
 - Seurat requires **R version 4.0** or greater.
 - We recommend installing **RStudio**.
 
-### Installing Seurat 5 from GitHub
+## Installing Seurat 5 from GitHub
 
-## Install devtools
+### Install devtools
 This package is necessary to install some packages from GitHub.
 ```
 if (!requireNamespace("devtools", quietly = TRUE)) {
