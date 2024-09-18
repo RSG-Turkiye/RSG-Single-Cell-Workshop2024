@@ -45,16 +45,12 @@ Do you want to attempt to install these from sources? y/n:
 Installing Seurat via Conda
 If you're using Conda, you can install Seurat using the following commands:
 
-bash
-Copy code
 conda install bioconda::r-seurat
 conda install bioconda/label/cf201901::r-seurat
 conda install bioconda/label/gcc7::r-seurat
 Installing Seurat and SeuratData in R
 For the workshop, the core packages are Seurat and SeuratData.
 
-r
-Copy code
 if (!requireNamespace("Seurat", quietly = TRUE)) {
     install.packages("Seurat")
 }
@@ -62,17 +58,16 @@ if (!requireNamespace("Seurat", quietly = TRUE)) {
 if (!requireNamespace("SeuratData", quietly = TRUE)) {
     install.packages("SeuratData")
 }
-2. Install Additional Useful Packages
 
-2.1 Data Manipulation and Visualization
+## 2. Install Additional Useful Packages
+
+Data Manipulation and Visualization
 For efficient data wrangling and visualization, install the following packages:
 
 dplyr and tidyverse: Data manipulation
 ggplot2: Data visualization
 Install them using these commands:
 
-r
-Copy code
 if (!requireNamespace("dplyr", quietly = TRUE)) {
     install.packages("dplyr")
 }
@@ -84,12 +79,10 @@ if (!requireNamespace("tidyverse", quietly = TRUE)) {
 if (!requireNamespace("ggplot2", quietly = TRUE)) {
     install.packages("ggplot2")
 }
-3. Verify Installation
 
+## 3. Verify Installation
 After installing all the necessary packages, load them to ensure everything is working correctly:
 
-r
-Copy code
 # Load core packages
 library(Seurat)
 library(SeuratData)
@@ -97,7 +90,8 @@ library(SeuratData)
 # Load data wrangling and visualization packages
 library(dplyr)
 library(ggplot2)
-If you encounter any issues, feel free to reach out using the contact information below:
+
+## If you encounter any issues, feel free to reach out using the contact information below:
 
 Melike Güler – melgulerw@gmail.com
 Ali Yavuz Çakır - ayavuzcakir@gmail.com
