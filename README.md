@@ -9,9 +9,10 @@ Workshop content:
 **We look forward to the participation of all our members!**
 
 **Date: September 23, 2024
+
 Time: 10:00 AM - 3:00 PM**
 
-**To prepare for the workshop happening next Monday, please ensure you have completed the following:**
+To prepare for the workshop happening next Monday, please ensure you have completed the following:
 
 ## Before You Start
 Make sure to create a working directory and use an R script in Rstudio to type your command lines, as we covered in our previous workshop.
