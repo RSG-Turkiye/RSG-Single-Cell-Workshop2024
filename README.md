@@ -1,10 +1,10 @@
 **RSG Turkey invites all its members to the workshop titled "Introduction to Single-cell RNA-seq Analysis using Seurat," which will be delivered by Ali Yavuz Çakır. The workshop will take place on September 23, 2024, from 10:00 AM to 3:00 PM. This is a great opportunity to learn how to work with single-cell RNA-seq data and master the analysis process.**
 
 Workshop content:
--Using the Seurat package
--Analysis of single-cell RNA-seq data
--Automatic cell type annotation for PBMC_10x_v2
--Integration of two datasets
+- Using the Seurat package
+- Analysis of single-cell RNA-seq data
+- Automatic cell type annotation for PBMC_10x_v2
+- Integration of two datasets
 
 **We look forward to the participation of all our members!**
 
