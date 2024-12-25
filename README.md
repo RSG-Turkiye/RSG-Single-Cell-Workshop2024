@@ -125,14 +125,3 @@ correctly.
 ```library(ggplot2)```
 
 
-
-
-**_If you encounter any problems, do not hesitate to contact us using the contact information
-below:_**
-
-
-
-Melike Güler – melgulerw@gmail.com
-
-
-Ali Yavuz Çakır - ayavuzcakir@gmail.com
